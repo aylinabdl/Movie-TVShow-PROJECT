@@ -6,34 +6,20 @@ A complete React js movie application.
 
 ## Project Description
 
-MovieNet contains all the functionalities that a movie website should have. Users can search for any movie/ tv show and the site will filter results and display them on a beautiful screen. Also, users can show all the trending movies and tv shows. Users can see popular, top-rated movies and tv shows. Users can see a single movie/tv show's details by clicking on a specific movie/ tv show. Bottom of the movie details page, the user can show related official videos. Anyone can see what is similar movies to the movie on the details page at the bottom of the page. Anyone can play the movie trailer using a video popup. Users can explore movies/tv shows by clicking the movies and tv shows the button in the header section. On explore page users can filter movies by their genres and also can sort.
+MovieNet has all the features a movie website needs. Users can search for any movie or TV show, and the site will filter results and display them in a user-friendly way. You can also see trending movies and TV shows, as well as popular and top-rated ones.
+
+When you click on a specific movie or TV show, you'll get more details about it. At the bottom of the details page, there are related official videos and a list of similar movies. You can also watch the movie trailer in a popup.
+
+In the Explore section, users can browse movies and TV shows, filter them by genre, and sort them easily. Navigation is simple, with options to explore both movies and TV shows from the header.
 
 ## What I used
 
-- [React]
-- [React Redux]
+- React
 - [The Movie Database API](https://www.themoviedb.org/)
-- [React icons]
+- React icons
 - [Vite](https://vitejs.dev/)
 
 
 
-
-## Getting Started
-
-After getting the starter files, you need to go the file directory and run
-
-```shell
-npm install
-```
-
-and after that start the dev server.
-
-```shell
-npm run dev
-```
-
-
-Code Editor: [VS Code]
 
 
